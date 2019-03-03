@@ -1,0 +1,9 @@
+/Users/ivan/RiderProjects/TopologicalSorting/Graph/bin/Debug/netcoreapp2.2/Graph.deps.json
+/Users/ivan/RiderProjects/TopologicalSorting/Graph/bin/Debug/netcoreapp2.2/Graph.dll
+/Users/ivan/RiderProjects/TopologicalSorting/Graph/bin/Debug/netcoreapp2.2/Graph.pdb
+/Users/ivan/RiderProjects/TopologicalSorting/Graph/obj/Debug/netcoreapp2.2/Graph.csprojAssemblyReference.cache
+/Users/ivan/RiderProjects/TopologicalSorting/Graph/obj/Debug/netcoreapp2.2/Graph.csproj.CoreCompileInputs.cache
+/Users/ivan/RiderProjects/TopologicalSorting/Graph/obj/Debug/netcoreapp2.2/Graph.AssemblyInfoInputs.cache
+/Users/ivan/RiderProjects/TopologicalSorting/Graph/obj/Debug/netcoreapp2.2/Graph.AssemblyInfo.cs
+/Users/ivan/RiderProjects/TopologicalSorting/Graph/obj/Debug/netcoreapp2.2/Graph.dll
+/Users/ivan/RiderProjects/TopologicalSorting/Graph/obj/Debug/netcoreapp2.2/Graph.pdb

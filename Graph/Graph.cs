@@ -24,7 +24,7 @@ namespace Graph
         
         
         
-        private void dfs(int n, List<bool> visited, List<E> answer)
+        private IEnumerator<E> dfs(int n, List<bool> visited, List<E> answer)
         {
             visited[n] = true;
             List<V> node = data[n];
@@ -35,10 +35,10 @@ namespace Graph
                     dfs(x, visited, answer);
                 }
             }
-            answer.Add(nodes[n]);
+            yield return nodes[n];
         }
         
-        private IEnumerable<E> TopologicalSort()
+        private IEnumerator<E> TopologicalSort()
         {
             List<bool> visited = new List<bool>();
             List<E> answer = new List<E>();
@@ -50,16 +50,16 @@ namespace Graph
             {
                 if (!visited[x])
                 {
-                    dfs(x, visited, answer);
+                    IEnumerator<E> ans = dfs(x, visited, answer);
+                    while (ans.MoveNext())
+                        yield return ans.Current;
                 }
             }
-            answer.Reverse();
-            return answer;
         }
             
         public IEnumerator<E> GetEnumerator()
         {
-            return TopologicalSort().GetEnumerator();
+            return TopologicalSort();
         }
 
         IEnumerator IEnumerable.GetEnumerator()

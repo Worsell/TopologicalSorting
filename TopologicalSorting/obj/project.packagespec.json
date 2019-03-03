@@ -1,0 +1,47 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/ivan/RiderProjects/TopologicalSorting/TopologicalSorting/TopologicalSorting.csproj",
+    "projectName": "TopologicalSorting",
+    "projectPath": "/Users/ivan/RiderProjects/TopologicalSorting/TopologicalSorting/TopologicalSorting.csproj",
+    "outputPath": "/Users/ivan/RiderProjects/TopologicalSorting/TopologicalSorting/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.2"
+    ],
+    "frameworks": {
+      "netcoreapp2.2": {
+        "projectReferences": {
+          "/Users/ivan/RiderProjects/TopologicalSorting/Graph/Graph.csproj": {
+            "projectPath": "/Users/ivan/RiderProjects/TopologicalSorting/Graph/Graph.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.2": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

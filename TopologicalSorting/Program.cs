@@ -17,10 +17,11 @@ namespace TopologicalSorting
             l.Add(new List<bool>() {false,true,false,false,false});
             l.Add(new List<bool>() {false,false,true,false,false});
             l.Add(new List<bool>() {false,false,false,true,false});
-            List<int> m = new List<int>() {5,2,3,4,5};
+            List<int> m = new List<int>() {1,2,3,4,5};
             
             Graph<bool, int> g = new Graph<bool, int>(l, m);
                         
+            // Каноничная сортировка на с# 
             List<int> arr = (from t in g select t).ToList();
             foreach(var x in arr)
                 Console.WriteLine(x);

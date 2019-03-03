@@ -1,0 +1,14 @@
+/Users/ivan/RiderProjects/TopologicalSorting/TopologicalSorting/bin/Debug/netcoreapp2.2/TopologicalSorting.deps.json
+/Users/ivan/RiderProjects/TopologicalSorting/TopologicalSorting/bin/Debug/netcoreapp2.2/TopologicalSorting.runtimeconfig.json
+/Users/ivan/RiderProjects/TopologicalSorting/TopologicalSorting/bin/Debug/netcoreapp2.2/TopologicalSorting.runtimeconfig.dev.json
+/Users/ivan/RiderProjects/TopologicalSorting/TopologicalSorting/bin/Debug/netcoreapp2.2/TopologicalSorting.dll
+/Users/ivan/RiderProjects/TopologicalSorting/TopologicalSorting/bin/Debug/netcoreapp2.2/TopologicalSorting.pdb
+/Users/ivan/RiderProjects/TopologicalSorting/TopologicalSorting/bin/Debug/netcoreapp2.2/Graph.dll
+/Users/ivan/RiderProjects/TopologicalSorting/TopologicalSorting/bin/Debug/netcoreapp2.2/Graph.pdb
+/Users/ivan/RiderProjects/TopologicalSorting/TopologicalSorting/obj/Debug/netcoreapp2.2/TopologicalSorting.csprojAssemblyReference.cache
+/Users/ivan/RiderProjects/TopologicalSorting/TopologicalSorting/obj/Debug/netcoreapp2.2/TopologicalSorting.csproj.CoreCompileInputs.cache
+/Users/ivan/RiderProjects/TopologicalSorting/TopologicalSorting/obj/Debug/netcoreapp2.2/TopologicalSorting.AssemblyInfoInputs.cache
+/Users/ivan/RiderProjects/TopologicalSorting/TopologicalSorting/obj/Debug/netcoreapp2.2/TopologicalSorting.AssemblyInfo.cs
+/Users/ivan/RiderProjects/TopologicalSorting/TopologicalSorting/obj/Debug/netcoreapp2.2/TopologicalSorting.csproj.CopyComplete
+/Users/ivan/RiderProjects/TopologicalSorting/TopologicalSorting/obj/Debug/netcoreapp2.2/TopologicalSorting.dll
+/Users/ivan/RiderProjects/TopologicalSorting/TopologicalSorting/obj/Debug/netcoreapp2.2/TopologicalSorting.pdb
