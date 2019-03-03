@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopologicalSorting", "TopologicalSorting\TopologicalSorting.csproj", "{B0AD60A1-C1F2-4EDF-9AF4-12416EE1D9C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graph", "Graph\Graph.csproj", "{8D6A8066-2394-41E0-95AD-236DE95628F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0AD60A1-C1F2-4EDF-9AF4-12416EE1D9C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0AD60A1-C1F2-4EDF-9AF4-12416EE1D9C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0AD60A1-C1F2-4EDF-9AF4-12416EE1D9C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0AD60A1-C1F2-4EDF-9AF4-12416EE1D9C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D6A8066-2394-41E0-95AD-236DE95628F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D6A8066-2394-41E0-95AD-236DE95628F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D6A8066-2394-41E0-95AD-236DE95628F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D6A8066-2394-41E0-95AD-236DE95628F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
